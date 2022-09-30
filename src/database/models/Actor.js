@@ -1,4 +1,4 @@
-module.exports = (sequilze, dataTypes) => {
+module.exports = (sequelize, dataTypes) => {
     const alias = "Actor";
     const cols = {
     id : {
